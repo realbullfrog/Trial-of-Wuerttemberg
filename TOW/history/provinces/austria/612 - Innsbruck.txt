@@ -1,0 +1,11 @@
+owner = WUR
+controller = WUR
+add_core = WUR
+add_core = GER
+trade_goods = timber
+life_rating = 40
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
